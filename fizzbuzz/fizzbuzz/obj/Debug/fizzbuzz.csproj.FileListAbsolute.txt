@@ -1,0 +1,6 @@
+C:\Users\Zixuan Yuan\Desktop\.NET\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe.config
+C:\Users\Zixuan Yuan\Desktop\.NET\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.exe
+C:\Users\Zixuan Yuan\Desktop\.NET\fizzbuzz\fizzbuzz\bin\Debug\fizzbuzz.pdb
+C:\Users\Zixuan Yuan\Desktop\.NET\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.csprojAssemblyReference.cache
+C:\Users\Zixuan Yuan\Desktop\.NET\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.exe
+C:\Users\Zixuan Yuan\Desktop\.NET\fizzbuzz\fizzbuzz\obj\Debug\fizzbuzz.pdb
